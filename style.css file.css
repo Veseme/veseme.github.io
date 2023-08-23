@@ -1,0 +1,41 @@
+.body, html{
+	width: 100%;
+	height: 100%;
+	font-family: sans-serif;
+	  background: url(img.html) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+h1{}
+	font-size: 3rem;
+	color:#20c997 ;
+}
+
+.hr{
+	border-color:red;
+	border-width: 3px;
+	max-width:63px;
+}
+
+.btn{
+	font-weight: 700px;
+	border-radius:300px;
+	text-transform: uppercase;
+}
+
+.btn-primary{
+	background-color:orange ;
+	border-color: #fd7e14;
+    background-color: #F05F44;	
+    border-color: #F05F44;	
+    --bs-btn-hover-bg: #ee4b08;	
+    --bs-btn-hover-border-color: #ee4b08;
+}
+
+.btn-primary:hover{
+	background-color: #f05f44;
+	background-color: #f05f44;
+}
